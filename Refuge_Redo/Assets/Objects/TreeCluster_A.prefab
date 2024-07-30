@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4613909406793601653}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: TreeCluster_A
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -45,7 +45,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4589661833920996011}
   - component: {fileID: 2723424316254758491}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: InvisWall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -136,6 +136,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree
       objectReference: {fileID: 0}
+    - target: {fileID: 5593249534054289717, guid: c454715e6cf3c0c48a9c6157791c422d, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 7286802556721233522, guid: c454715e6cf3c0c48a9c6157791c422d, type: 3}
       propertyPath: m_Materials.Array.size
       value: 2
@@ -210,6 +214,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 5593249534054289717, guid: c454715e6cf3c0c48a9c6157791c422d, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 7286802556721233522, guid: c454715e6cf3c0c48a9c6157791c422d, type: 3}
       propertyPath: m_Materials.Array.size
       value: 2
@@ -283,6 +291,10 @@ PrefabInstance:
     - target: {fileID: 5593249534054289717, guid: c454715e6cf3c0c48a9c6157791c422d, type: 3}
       propertyPath: m_Name
       value: Tree (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5593249534054289717, guid: c454715e6cf3c0c48a9c6157791c422d, type: 3}
+      propertyPath: m_Layer
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 7286802556721233522, guid: c454715e6cf3c0c48a9c6157791c422d, type: 3}
       propertyPath: m_Materials.Array.size
