@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 3479411454042076786}
   - component: {fileID: 5227760953756258770}
   - component: {fileID: 4696418687814910040}
+  - component: {fileID: 8303846580980178189}
   m_Layer: 0
   m_Name: Point Light (1)
   m_TagString: Untagged
@@ -108,10 +109,30 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   my_light: {fileID: 5227760953756258770}
-  min_intensity: 5
-  max_intensity: 25
+  min_intensity: 1
+  max_intensity: 5
   min_range: 1
   max_range: 3
+--- !u!114 &8303846580980178189
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 14954851281317687}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 1
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
 --- !u!1 &247467835426753782
 GameObject:
   m_ObjectHideFlags: 0
@@ -1487,6 +1508,7 @@ GameObject:
   - component: {fileID: 6676570417395161668}
   - component: {fileID: 1719833472261593295}
   - component: {fileID: 7248032715627349783}
+  - component: {fileID: 1882439994452361953}
   m_Layer: 0
   m_Name: Point Light
   m_TagString: Untagged
@@ -1584,10 +1606,30 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   my_light: {fileID: 1719833472261593295}
-  min_intensity: 5
-  max_intensity: 25
+  min_intensity: 1
+  max_intensity: 5
   min_range: 1
   max_range: 3
+--- !u!114 &1882439994452361953
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4521882301459621922}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 1
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
 --- !u!1 &4741782703578891740
 GameObject:
   m_ObjectHideFlags: 0
@@ -2172,6 +2214,7 @@ GameObject:
   - component: {fileID: 6020683965195247447}
   - component: {fileID: 1576233342186406047}
   - component: {fileID: 2428825195798902819}
+  - component: {fileID: 4075024879128340285}
   m_Layer: 0
   m_Name: Point Light (2)
   m_TagString: Untagged
@@ -2269,10 +2312,30 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   my_light: {fileID: 1576233342186406047}
-  min_intensity: 5
-  max_intensity: 25
+  min_intensity: 1
+  max_intensity: 5
   min_range: 1
   max_range: 3
+--- !u!114 &4075024879128340285
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5945799526194757293}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 1
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
 --- !u!1 &7101837040649068649
 GameObject:
   m_ObjectHideFlags: 0
