@@ -1,18 +1,44 @@
 # Refuge_Redo
+**Contents**  
+[1. Info](#info)  
+[2. Goal](#goal)  
+[3. Results](#results)  
+[4. Process](#process)  
+[4.1 Player Controller and Camera](#player-controller-and-camera)  
+[4.2 Level Layout / Design](#level-layout--design)  
+[4.3 Terrain Editor](#terrain-editor)  
+[4.4 Attention to Detail](#attention-to-detail)  
+[5. Narrative](#narrative)  
+[6. Controls](#controls)  
+[7. Links](#links)  
+
 
 ## Info
 **Date:** July - August 2024
 
 Made in Unity.  
-This is a redesign of a level design I did in my sophomore year of college.
+
+**TLDR:**  
+This is a redesign of a level design I did in my sophomore year of college.  
 
 ## Goal
 Preserve the essense of the original design, but clean it up and make it more cohesive.
 
 ## Results
-![alt text](Screenshots/Refuge_Redo_1.png)
-![alt text](Screenshots/Refuge_Redo_2.png)
-![alt text](Screenshots/Refuge_Redo_3.png)
+View at the start of the level. The player is at the pavilion and looking towards the hedge maze.  
+
+![alt text](Screenshots/Refuge_Redo_1.png)  
+
+View from the top of the lighthouse. The player is looking down at the hedge maze and pavillion.  
+
+![alt text](Screenshots/Refuge_Redo_2.png)  
+
+View from the top of the hill the player gets teleported to. The player is looking out at the hilly area and ruins.  
+
+![alt text](Screenshots/Refuge_Redo_3.png)  
+
+View from inside the ruined village. The player is looking at the main ruined house in the distance with a glowing throne.  
+
 ![alt text](Screenshots/Refuge_Redo_4.png)
 
 ## Process
@@ -39,20 +65,11 @@ So, I spent time making sure the objects I was whiteboxing didn't have those iss
 If I had to put a narrative to this level it would be something like this:  
 The player is shrunk down to a miniture size and has to navigate a magical miniture set.
 
-## What I Would do Differently
-
-
-
-
-## What I Learned
-I'm happy to note that my level "whiteboxing" skills have improved. But on a more serious note, I've strengthed my skills with player controllers and cameras. I have learned how to use Unity's terrain editor and Unity's Pro Builder.
-
+## Controls
+The controls for the project:  
+WASD - movement  
+QE   - tilt camera up or down
 
 ## Links
-
-
-
-
-## Controls
-WASD - movement
-QE   - tilt camera up or down
+[My Portfolio](https://github.com/ksanti6/portfolio)  
+[The Original Version of this Project](https://github.com/ksanti6/portfolio/blob/main/DESIGN/Designing_A_3D_Whitebox_Level/Refuge_3D_Whitebox_Level.md)  
