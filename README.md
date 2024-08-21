@@ -8,9 +8,8 @@
 [4.2 Level Layout / Design](#level-layout--design)  
 [4.3 Terrain Editor](#terrain-editor)  
 [4.4 Attention to Detail](#attention-to-detail)  
-[5. Narrative](#narrative)  
-[6. Controls](#controls)  
-[7. Links](#links)  
+[5. Controls](#controls)  
+[6. Links](#links)  
 
 
 ## Info
@@ -48,22 +47,23 @@ This time around I used a combo of a "Character Controller" compoenent and a Cin
 
 ### Level Layout / Design
 The Next glaring issue was the synergy of some parts of the level design so I revisited the original design and swapped out some areas.  
+
 The first area to change was the starting area (the house and maze in the original). The combination of those two, frankly, did not make any sense. I ended up with a pavilion and a hedge maze which I think can be narratively tied together easier.  
+
 The next section to be changed was the random ramps up a giant wall to jump off of. Again it just didn't make sense. What could be a tall object I could add, to jump off of? I landed on a lighthouse, which could also serve as a big beacon in the background for players to move towards.  
+
 The last two sections (the hills and ruined village) conceptually stayed the same, just got major facelifts.
 
 ### Terrain Editor
 This time around I decided to use as much as Unity offered as I could, meaning using the terrain editor for the first time.  
-In the original, I struggled to make the hills terrain and ended up making these obtuse boxy hills that didn't feel natural at all. You couldn't even tell what they were by looking at them. (I didn't know what Unity had a terrain editor.)  
+
+In the original, I struggled to make the hills terrain and ended up making these obtuse boxy hills that didn't feel natural at all. You couldn't even tell what they were by looking at them. (I didn't know Unity had a terrain editor.)  
 This time I crafted natural hills and a valley with the terrain editor in a fraction of the time it took me to make the original "hills".
 
 ### Attention to Detail
-One of the things I made sure to put a lot of effort into this project is attention to detail. In the original so much of the geometry had noticable seems and some clipping issues. A lot of the objects you could not tell what they were by looking at them.  
+One of the things I made sure to put a lot of effort into this project is attention to detail. In the original so much of the geometry had noticable seams and some clipping issues. A lot of the objects you could not tell what they were by looking at them.  
 So, I spent time making sure the objects I was whiteboxing didn't have those issues.
 
-## Narrative
-If I had to put a narrative to this level it would be something like this:  
-The player is shrunk down to a miniture size and has to navigate a magical miniture set.
 
 ## Controls
 The controls for the project:  
